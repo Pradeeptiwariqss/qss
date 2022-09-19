@@ -1,4 +1,4 @@
-from QssTestCases import  a
+
 
 class A:
     def test_one(self):
